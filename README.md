@@ -1,2 +1,8 @@
 # ObjectStorageSystem
-This repository is used to develop object storage systems
+> 对象存储系统吧，服创大赛的项目，想自己整一下，结合之前学的东西吧
+
+有兴趣加入的，欢迎来群里聊天（758195380）                                                                                                                                                                                                                                                                                   
+
+**目前是项目设计阶段**
+
+可查看项目设计文档
